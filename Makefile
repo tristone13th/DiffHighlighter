@@ -10,7 +10,7 @@ xpi: $(ADDON)
 
 %.xpi: \
 	manifest.json \
-	README.md LICENSE COPYRIGHT \
+	README.md \
 	scripts/ \
 	styles/ \
 	$(HLJS_SCRIPT) \
