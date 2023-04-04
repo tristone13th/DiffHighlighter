@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "DiffHighlighter",
+    "version": "0.0.1",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "tristone13th@outlook.com",
+            "strict_min_version": "0.0"
+        }
+    },
+    "description": "",
+    "author": "Lei Wang",
+    "homepage_url": "https://github.com/tristone13th/diffhighlighter",
+    "developer": {
+        "name": "Tristone"
+    },
+    "permissions": [
+        "messagesModify"
+    ],
+    "background": {
+        "page": "scripts/background.html"
+    }
+}
