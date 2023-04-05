@@ -76,8 +76,8 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    border: 1px solid #666666;
-    border-radius: 3px;
+    border: 1px solid #444444;
+    border-radius: 5px;
     cursor: pointer;
     display: none;
     font-size: 12px;
@@ -86,7 +86,7 @@
 }
 
 .d2h-file-collapse-input {
-    margin: 0 4px 0 0
+    accent-color: #9cdcfe
 }
 
 .d2h-diff-table {
